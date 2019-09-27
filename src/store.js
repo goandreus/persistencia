@@ -9,6 +9,7 @@ Vue.use(Vuex)
 const vuexLocal = new VuexPersistence({
   storage: localForage,
   modules: ['cart']
+
 })
 
 export default new Vuex.Store({

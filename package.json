@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "bootstrap-vue": "^2.0.0-rc.11",
-    "localforage": "^1.7.2",
+    "localforage": "^1.7.3",
     "vue": "^2.5.17",
     "vue-paginate": "^3.6.0",
     "vuex": "^3.0.1",
